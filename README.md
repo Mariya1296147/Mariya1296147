@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **[Hospital Management System](https://github.com/Mariya1296147/smart-hospital-v1.git)**
 - 🌱 I’m currently learning **Angular, Spring Boot, Flutter**
 - 👨‍💻 All of my projects are available at **[github.com/Mariya1296147](https://github.com/Mariya1296147)**
-- 📫 How to reach me: **maria1296147@gmail.com**
+- 📫 How to reach me: **mariyaahsan75@gmail.com**
 
 ### 🤝 Connect with me:
 <p align="left">
